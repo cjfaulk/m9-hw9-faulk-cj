@@ -24,3 +24,6 @@ class IceCream extends Desserts {
 // Parts vi and vii
 const vanillaIceCream = new IceCream("Ice Cream", 340, "Vanilla", 3);
 console.log(vanillaIceCream);
+
+// Part viii
+vanillaIceCream.includeSpoon();
